@@ -1,0 +1,4 @@
+rootProject.name = 'gradle-project'
+
+include 'gradle-module1'
+include 'gradle-module2'
